@@ -15,13 +15,13 @@ BLOG = {
     "bloog_version": "0.8",
     "html_type": "text/html",
     "charset": "utf-8",
-    "title": "Bloog",
-    "author": "Bill Katz",
+    "title": "Tragicomic",
+    "author": "Ang Li",
     # This must be the email address of a registered administrator for the 
     # application due to mail api restrictions.
-    "email": "you@foo.com",
-    "description": "A RESTful Blog/Homepage for Google AppEngine.",
-    "root_url": "http://bloog.billkatz.com",
+    "email": "laauron@gmail.com",
+    "description": "A blog for technology, music, and many things else",
+    "root_url": "http://auron-blog.appspot.com",
     "master_atom_url": "/feeds/atom.xml",
     # By default, visitors can comment on article for this many days.
     # This can be overridden by setting article.allow_comments
